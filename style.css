@@ -29,7 +29,8 @@ p{
     background-color: #002e50;
     color: #ffffff;
     display: flex;
-    gap: 16px;
+    gap: 20px;
+    height: 60px;
 
 }
 ul{
@@ -38,4 +39,8 @@ ul{
 section{
     width: auto;
     text-align: center;
+}
+.footer-nav p{
+    color: #2c94e4;
+    padding: 10px, 60px;
 }
